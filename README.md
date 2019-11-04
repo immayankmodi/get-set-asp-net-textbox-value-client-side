@@ -1,4 +1,4 @@
-AspnetO Blog Series: Get Set Asp.net TextBox Value or Text in JavaScript / jQuery
+AspnetO Blog Series: Get or Set Asp.net TextBox Value or Text in JavaScript / jQuery
 
 ------------------------------------------------------------------------------------
 AspnetO - Quick Way To Learn Asp.net [http://www.aspneto.com]
